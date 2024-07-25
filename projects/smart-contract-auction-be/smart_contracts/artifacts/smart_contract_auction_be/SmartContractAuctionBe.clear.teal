@@ -1,0 +1,7 @@
+#pragma version 10
+
+smart_contracts.smart_contract_auction_be.contract.SmartContractAuctionBe.clear_state_program:
+    // smart_contracts/smart_contract_auction_be/contract.py:5
+    // class SmartContractAuctionBe(ARC4Contract):
+    int 1
+    return
